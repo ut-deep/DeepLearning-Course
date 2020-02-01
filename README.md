@@ -32,12 +32,17 @@ This course provides an understanding of the fundemental concepts of neural netw
   
   * Blog: [Blog: Stochastic vs Batch Gradient Descent by Divakar Kapil](https://medium.com/@divakar_239/stochastic-vs-batch-gradient-descent-8820568eada1), by Divakar Kapil.
   
-  ### 3. <a name="Toolkits(Part1)"></a> Toolkits(Conda and Google Colab):
+  ### 3. <a name="Toolkits(Part1)"></a> Toolkit Lab1: (Conda and Google Colab)
   * Blog: [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d), by Fuat.
   * Blog: [Managing Environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#managing-environments) Conda official website.
   * Blog: [Install Tensorflow](https://www.tensorflow.org/install)
   * Blog: [How to Install PyTorch on Ubuntu](https://www.liquidweb.com/kb/how-to-install-pytorch-on-ubuntu/), by Justin Palmer.
   * PDF: [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+  
+  ### 4. <a name="Toolkits(Part2)"></a> Toolkit Lab2: (Python Toturial)
+   * Blog: [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/), by Justin Johnson.
+   * Blog: [Iterators and Generators in Python](https://github.com/nzakas/understandinges6/blob/master/manuscript/08-Iterators-And-Generators.md), by nzakas.
+   
   
   
 
