@@ -42,7 +42,9 @@ This course provides an understanding of the fundemental concepts of neural netw
   ### 4. <a name="Toolkits(Part2)"></a> Toolkit Lab2: (Python Toturial)
    * Blog: [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/), by Justin Johnson.
    * Blog: [Iterators and Generators in Python](https://github.com/nzakas/understandinges6/blob/master/manuscript/08-Iterators-And-Generators.md), by nzakas.
-   
+   * Blog:  [Iterables vs. Iterators vs. Generators](https://nvie.com/posts/iterators-vs-generators/) by Vincent Driessen.
+   * Blog: [Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/) by the Real Python Team
+   * Blog: [Understanding Object-Oriented Programming Through Machine Learning](https://towardsdatascience.com/object-oriented-programming-for-data-scientists-build-your-ml-estimator-7da416751f64), by David Ziganto.
   
   
 
